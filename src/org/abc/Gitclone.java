@@ -5,9 +5,9 @@ public class Gitclone {
 		
     	 System.out.println("welcome");
     	 
+    	 System.out.println("123");
     	 
-    	 
-    	 
+    	 System.out.println("00000");
 	}
 	
 	
