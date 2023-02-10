@@ -7,7 +7,8 @@ public class Gitclone {
     	 
     	 
     	 
-    	 
+    	 System.out.println("56677");
+    	 System.out.println("0000");
 	}
 	
 	
